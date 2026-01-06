@@ -1,0 +1,15 @@
+{
+  "split": "test",
+  "limit": 10,
+  "model": "models/gemini-2.5-flash",
+  "tables_json": "D:\\Workspace\\AI-Text-To-SQL-main\\tables.json",
+  "stats": {
+    "total": 10,
+    "select_only": 0,
+    "sql_valid": 0,
+    "em_match": 0,
+    "ex_match": 0,
+    "errors": 10,
+    "gen_time_total": 0.0
+  }
+}
