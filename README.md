@@ -585,20 +585,9 @@ MIT License - See LICENSE file for details
 |------|---------|
 | [API Docs](http://localhost:8000/docs) | Interactive API testing |
 | [Health Check](http://localhost:8000/api/health) | Service status |
-| [Frontend](http://localhost) | Web UI |
-| [EVAL_GUIDE.md](EVAL_GUIDE.md) | How to evaluate |
+| [Frontend](http://localhost) | Web UI |How to evaluate |
 | [Database Logs](docker logs sql-postgres) | Debug DB issues |
 | [Backend Logs](docker logs sql-backend) | Debug API issues |
-
----
-
-## 📞 Contact & Credits
-
-**Project**: Vietnamese Text-to-SQL Assistant  
-**Purpose**: Educational - Demonstrate AI + Database integration  
-**Status**: Active Development  
-
-For questions or feedback, open an issue or discussion.
 
 ---
 
